@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSLMach1", "CSLMach1\CSLMach1.csproj", "{9DD94718-AC70-4CA5-B107-64AE840285FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSLReaderParamControl", "CSLReaderParamControl\CSLReaderParamControl.csproj", "{510F8CFE-7744-42D8-9721-066F8CF9945B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C463Mach1Samples", "C463Mach1Samples\C463Mach1Samples.csproj", "{451ABB75-BA27-432C-ACC2-1E84D4D3B22C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DD94718-AC70-4CA5-B107-64AE840285FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DD94718-AC70-4CA5-B107-64AE840285FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DD94718-AC70-4CA5-B107-64AE840285FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DD94718-AC70-4CA5-B107-64AE840285FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{510F8CFE-7744-42D8-9721-066F8CF9945B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{510F8CFE-7744-42D8-9721-066F8CF9945B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{510F8CFE-7744-42D8-9721-066F8CF9945B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{510F8CFE-7744-42D8-9721-066F8CF9945B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{451ABB75-BA27-432C-ACC2-1E84D4D3B22C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{451ABB75-BA27-432C-ACC2-1E84D4D3B22C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{451ABB75-BA27-432C-ACC2-1E84D4D3B22C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{451ABB75-BA27-432C-ACC2-1E84D4D3B22C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
